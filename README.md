@@ -1,4 +1,4 @@
-SID player for ZX Spectrum with hardware SID (6581 PAL!!! only!)
+SID player for ZX Spectrum with hardware SID (6581 PAL only!!!)
 <br/> on xxCF port (now TSID standard https://github.com/UzixLS/zx-tsid )
 <br/> and on AY ports (discontinued ZX Spectrum NEXT standard https://www.zxuno.com/forum/viewtopic.php?t=3998 )
 <br/> with extra 8580 filter and NTSC emulation mode
